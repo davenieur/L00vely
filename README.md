@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a chatbot<br>👯 I’m looking to collaborate on machine learning projects<br>🌱 I’m currently learning React, Machine Learning and Blockchain<br>💬 Ask me about Python and C
+🔭 I’m currently working on a chatbot<br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning React, Machine Learning and Blockchain<br>💬 Ask me about Javascript, Python and C
 
 
 ## 🌐 Socials:
