@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing a personal E-Commerce webpage <br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning React, Machine Learning and Blockchain<br>💬 Ask me about Javascript, Python and C
+🔭 I’m currently doing a personal E-Commerce webpage <br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning React, Artificial Inteligence and UX/UI<br>💬 Ask me about Javascript, Python and C
 
 
 ## 🌐 Socials:
