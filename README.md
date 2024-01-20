@@ -1,5 +1,5 @@
 # 💫 About Me:
-    🔭 I’m currently working on: Exciting projects that challenge my fullstack development skills.<br><br>    👯 I’m looking to collaborate on: Innovative projects! If you have something interesting, let's collaborate!<br><br>    🤝 I’m looking for help with: Optimizing backend performance and AWS. If you have experience, I'd love to have your assistance!<br><br>    🌱 I’m currently learning: AWS and Dart.<br><br>    💬 Ask me about: Python, machine learning, or tips for fullstack developers.<br><br>    ⚡ Fun fact: I love solving puzzles!  🧠💻
+🔭 I’m currently working on: Exciting projects that challenge my fullstack development skills.<br>👯 I’m looking to collaborate on: Innovative projects! If you have something interesting, let's collaborate!<br>🤝 I’m looking for help with: Optimizing backend performance and AWS. If you have experience, I'd love to have your assistance!<br>🌱 I’m currently learning: AWS and Dart.<br>💬 Ask me about: Python, machine learning, or tips for fullstack developers.<br>⚡ Fun fact: I love solving puzzles!  🧠💻
 
 
 ## 🌐 Socials:
